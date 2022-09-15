@@ -2,5 +2,5 @@
 
 def calc(coconut=454, swallow_capacity=20):
   print(coconut / swallow_capacity)
-
+  
 calc()
